@@ -1,0 +1,2 @@
+# SJTwitterClientApp
+Android twitter client
